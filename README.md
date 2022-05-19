@@ -1,7 +1,4 @@
 # aliasrc
-alias 
-
-
 
 ```bash 
 cp .aliasrc $HOME/

@@ -1,4 +1,4 @@
 #!/bin/bash 
 
-cp .aliasrc $HOME/
+cp $HOME/Repo/.aliasrc $HOME/
 echo 'source $HOME/.aliasrc >> .*shrc

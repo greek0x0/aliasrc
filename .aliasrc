@@ -1,0 +1,7 @@
+#Alias
+
+
+alias ls='exa'
+alias l='keep list'
+alias r='keep run'
+alias s='keep grep'

@@ -1,7 +1,18 @@
 #Alias
-
-
 alias ls='exa'
 alias l='keep list'
 alias r='keep run'
 alias s='keep grep'
+
+
+# command lists
+alias revshells='cat ~/Repo/command-list/revshells'
+alias port80='cat ~/Repo/command-list/port80'
+alias stable='cat ~/Repo/command-list/stable'
+
+
+
+
+#programs
+alias rustscan='docker run -it --rm --name rustscan cmnatic/rustscan:debian-buster rustscan'
+#alias pwncat='docker run -it --rm --name pwncat pwncat'
